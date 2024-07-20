@@ -3,7 +3,7 @@
     "path": "~/Git Hub/hello_world/main.R",
     "project_path": "main.R",
     "type": "r_source",
-    "hash": "145730536",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1721467546882.0,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1721467595,
+    "lastKnownWriteTime": 1721468074,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1721467595105,
+    "last_content_update": 1721468074121,
     "read_only": false,
     "read_only_alternatives": []
 }
